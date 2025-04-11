@@ -1,0 +1,6 @@
+torch
+transformers
+datasets
+lightning
+ray
+tensorboardx
